@@ -1,0 +1,17 @@
+# Ejecutables compilados
+*.exe
+*.out
+a.out
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+.venv/
